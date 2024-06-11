@@ -1,0 +1,7 @@
+Open Command prompt in Windows or in your python ide
+
+Navigate to your python project location:
+cd "Your path"
+
+Execute this command:
+python packet_sniffer.py Wi-Fi -f "port 80"
